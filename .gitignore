@@ -1,0 +1,12 @@
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+
+
+/city_boundary
+/comm_boundary
+/hydrology
+
+*.png
+*.csv
